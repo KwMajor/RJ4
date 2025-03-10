@@ -1,0 +1,21 @@
+{
+  "name": "modulo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwMajor/RJ4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwMajor/RJ4/issues"
+  },
+  "homepage": "https://github.com/KwMajor/RJ4#readme",
+  "description": ""
+}
